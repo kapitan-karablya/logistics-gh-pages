@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/logistics-gh-pages/static/css/main.78b55453.chunk.css",
+    "main.js": "/logistics-gh-pages/static/js/main.87ddb37c.chunk.js",
+    "main.js.map": "/logistics-gh-pages/static/js/main.87ddb37c.chunk.js.map",
+    "runtime-main.js": "/logistics-gh-pages/static/js/runtime-main.f831a25a.js",
+    "runtime-main.js.map": "/logistics-gh-pages/static/js/runtime-main.f831a25a.js.map",
+    "static/js/2.5eab61e8.chunk.js": "/logistics-gh-pages/static/js/2.5eab61e8.chunk.js",
+    "static/js/2.5eab61e8.chunk.js.map": "/logistics-gh-pages/static/js/2.5eab61e8.chunk.js.map",
+    "static/js/3.78c78364.chunk.js": "/logistics-gh-pages/static/js/3.78c78364.chunk.js",
+    "static/js/3.78c78364.chunk.js.map": "/logistics-gh-pages/static/js/3.78c78364.chunk.js.map",
+    "index.html": "/logistics-gh-pages/index.html",
+    "static/css/main.78b55453.chunk.css.map": "/logistics-gh-pages/static/css/main.78b55453.chunk.css.map",
+    "static/js/2.5eab61e8.chunk.js.LICENSE.txt": "/logistics-gh-pages/static/js/2.5eab61e8.chunk.js.LICENSE.txt",
+    "static/media/truck.aa4d06cd.svg": "/logistics-gh-pages/static/media/truck.aa4d06cd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f831a25a.js",
+    "static/js/2.5eab61e8.chunk.js",
+    "static/css/main.78b55453.chunk.css",
+    "static/js/main.87ddb37c.chunk.js"
+  ]
+}
